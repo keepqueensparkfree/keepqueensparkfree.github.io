@@ -1,0 +1,10 @@
+node_modules
+dist
+*.tmp
+*.map
+*.DS_Store
+*.sublime-project
+*.sublime-workspace
+*.ftppass
+*style.css
+*npm-debug.log
