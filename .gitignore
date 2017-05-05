@@ -6,5 +6,4 @@ dist
 *.sublime-project
 *.sublime-workspace
 *.ftppass
-*style.css
 *npm-debug.log
